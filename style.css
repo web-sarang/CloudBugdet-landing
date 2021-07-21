@@ -227,7 +227,6 @@ img {
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
-    border: none;
     transition: background .3s linear;
     -webkit-transition: background .3s linear;
     -moz-transition: background .3s linear;
@@ -263,6 +262,7 @@ img {
     border-radius: 6px;
     color: #ED4C5C;
     font-weight: bold;
+    border: none;
 }
 
 .btn--signup:hover {
