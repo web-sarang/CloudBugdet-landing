@@ -584,7 +584,7 @@ input:not(:placeholder-shown):valid {
 }
 
 .cloud::after {
-    background: url('img/Cloud.svg') center no-repeat;
+    background: url('img/cloud.svg') center no-repeat;
 }
 
 .secury::after {
