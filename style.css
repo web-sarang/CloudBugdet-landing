@@ -242,6 +242,12 @@ img {
     border: 1px solid #FFFFFF;
     border-radius: 6px;
     background-color: transparent;
+    
+    transition: background .3s linear;
+    -webkit-transition: background .3s linear;
+    -moz-transition: background .3s linear;
+    -ms-transition: background .3s linear;
+    -o-transition: background .3s linear;
 }
 
 .btn--login:hover {
