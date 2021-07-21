@@ -139,7 +139,9 @@ img {
     z-index: 1;
     transition: opacity .1s linear;
 }
-
+.nav__link:hover {
+    text-decoration: none;
+}
 .nav__link:hover::after {
     opacity: 1;
     cursor: pointer;
